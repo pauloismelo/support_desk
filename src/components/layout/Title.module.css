@@ -1,0 +1,17 @@
+.title_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.2em;
+}
+.title_container h1{
+    color: #0d2464;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.title_container button{
+    background-color: #0d2464;
+    color: #fff;
+    padding: 0.5em 1em;
+}

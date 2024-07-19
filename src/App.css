@@ -1,0 +1,13 @@
+*{
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+
+}
+
+html, body, #root{
+  background-color: #efefef;
+  height: 100%;
+}
